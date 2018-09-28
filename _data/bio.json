@@ -6,7 +6,7 @@
     "email": "jasonriveraljr@gmail.com",
     "phone": "(808)769-0323",
     "website": "https://JJr057.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am a student at Farrington Highschool, going to graduate in 2019.",
     "location": {
       "address": "1762 Gulick Avenue",
       "postalCode": "96819",
@@ -39,19 +39,19 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "The virtual world",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Computer Science",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Gaming",
       "keywords": [
       ]
     }
